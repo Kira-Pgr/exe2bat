@@ -1,5 +1,5 @@
 # exe2bat
-a vbs file make a batch out of exe
+A VBS script make a batch that outputs a EXE
 
 ## How to use?
 
